@@ -1,4 +1,4 @@
-**Welcome to the official GitHub page for Procedural Recoil Animation Plugin for UE by *guip97*!**
+**Welcome to the official GitHub page for Procedural Recoil Animation Plugin for UE by *[guip97](https://github.com/guip97)*!**
 
 # What can this asset be used for?
 
@@ -16,7 +16,7 @@ Here are the benefits you can get from using this asset:
 The system isn't perfect yet, so there can be some bugs and issues. Whenever you face one, please, let me know on the official Discord server.
 Before creating a new "Issue", try to follow theses rules:
 - Ask your question on the official discord server
-- Make sure you've read Wikis carefully
+- Make sure you've read [Wikis](https://github.com/guip97/ProceduralRecoilAnimationSystem/wiki) carefully
 - Make sure your case is unique
 - Provide essential info:
   - Log files
