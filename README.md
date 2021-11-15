@@ -34,6 +34,7 @@ Before creating a new "Issue", try to follow theses rules:
 
 # Have a suggestion?
 Use ["Issues"](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section for feature suggestions.
+And don't forget to mark it with ⭐ feature label!
 
 # Contacts
 - official support e-mail [mikhailkuzmin420@gmail.com](mailto:mikhailkuzmin420@gmail.com?subject=[GitHub]%20Procedural%20Recoil%20Animation)
