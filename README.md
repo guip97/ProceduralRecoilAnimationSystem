@@ -1,11 +1,11 @@
 **Welcome to the official GitHub page for Procedural Recoil Animation Plugin for UE by *[guip97](https://github.com/guip97)*!**
 
-# Documentation
+# 📗 Documentation
 Documentation can be available on the official [Wiki](https://github.com/guip97/ProceduralRecoilAnimationSystem/wiki) page.
 
 There's also a [public roadmap](https://github.com/guip97/ProceduralRecoilAnimationSystem/projects/1).
 
-# Official Unreal Engine Marketplace page
+# 🛒 Official Unreal Engine Marketplace page
 Please note, that Unreal Engine Marketplace - is the only possible and allowed form of plugin's distrubution.
 
 # ❔ What can this asset be used for?
@@ -30,7 +30,7 @@ Here are the benefits you can get from using this asset:
 
 # 🔌 Just got the plugin?
 Here are 3 steps you need to do, once you've got the asset:
-1. Contact me via official support e-mail in the [Contacts section](#contacts)
+1. Contact me via official support e-mail in the [Contacts section](#📧-contacts)
 2. Send your Order ID (just a formality)
 3. Get access to the official Discord server and YouTube video tutorials!
 
