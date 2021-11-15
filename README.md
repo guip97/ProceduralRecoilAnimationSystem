@@ -30,7 +30,7 @@ Here are the benefits you can get from using this asset:
 
 # 🔌 Just got the plugin?
 Here are 3 steps you need to do, once you've got the asset:
-1. Contact me via official support e-mail in the [Contacts section](#-📧-contacts)
+1. Contact me via official support e-mail in the [Contacts section](#-contacts)
 2. Send your Order ID (just a formality)
 3. Get access to the official Discord server and YouTube video tutorials!
 
