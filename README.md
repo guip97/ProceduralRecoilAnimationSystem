@@ -25,7 +25,7 @@ Here are 3 steps you need to do, once you've got the asset:
 3. Get access to the official Discord server and YouTube video tutorials!
 
 # Have an issue?
-The system isn't perfect yet, so there can be some bugs and issues. If you found a bug, "Issues" section is exactly what you need.
+The system isn't perfect yet, so there can be some bugs and issues. If you found a bug, [Issues](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section is exactly what you need.
 
 Before creating a new "Issue", try to follow theses rules:
 - Ask your question on the official discord server
