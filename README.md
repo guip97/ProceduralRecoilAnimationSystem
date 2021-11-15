@@ -41,7 +41,7 @@ Use ["Issues"](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues)
 And don't forget to mark it with ⭐ feature label!
 
 # Contacts
-- official support e-mail [mikhailkuzmin420@gmail.com](mailto:mikhailkuzmin420@gmail.com?subject=[GitHub]%20Procedural%20Recoil%20Animation)
+- Official support e-mail [mikhailkuzmin420@gmail.com](mailto:mikhailkuzmin420@gmail.com?subject=[GitHub]%20Procedural%20Recoil%20Animation)
 
 # Source code
 This repository doesn't contain any code, so if you've got the plugin, please, contact and ask me for source code grant if needed.
