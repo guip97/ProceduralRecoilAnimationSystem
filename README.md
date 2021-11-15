@@ -21,7 +21,7 @@ Here are the benefits you can get from using this asset:
 - Variety and randomness in animations
 - Smooth transition between different fire modes
 - Frame rate independence
-- No need to use third party 3D softwarem like Blender, 3dsmax or Maya
+- No need to use third party 3D software, like Blender, 3dsmax or Maya
 
 # Just got the plugin?
 Here are 3 steps you need to do, once you've got the asset:
