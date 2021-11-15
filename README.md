@@ -19,6 +19,7 @@ Here are the benefits you can get from using this asset:
 - Convenient workflow for animation creation
 - Memory budget savings
 - Variety and randomness in animations
+- Smooth transition between different fire modes
 - Frame rate independence
 - No need to use third party 3D softwarem like Blender, 3dsmax or Maya
 
