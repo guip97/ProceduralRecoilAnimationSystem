@@ -1,5 +1,7 @@
 **Welcome to the official GitHub page for Procedural Recoil Animation Plugin for UE by *[guip97](https://github.com/guip97)*!**
 
+# It's highly recommended to check out official [Wikis!](https://github.com/guip97/ProceduralRecoilAnimationSystem/wiki)
+
 # What can this asset be used for?
 
 The main purpose of the plugin is to make creation of recoil animations for weapons much faster, easier and convenient.
@@ -25,6 +27,9 @@ Before creating a new "Issue", try to follow theses rules:
 
 # Have a suggestion?
 Use ["Issues"](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section for feature suggestions.
+
+# Contacts
+- official e-mail [mikhailkuzmin420@gmail.com](mikhailkuzmin420@gmail.com)
 
 # P.S.
 This repository doesn't contain any code, so if you've got the plugin, please, contact and ask me for source code grant if needed.
