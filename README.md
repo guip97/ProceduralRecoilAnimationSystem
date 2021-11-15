@@ -29,7 +29,7 @@ Before creating a new "Issue", try to follow theses rules:
 Use ["Issues"](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section for feature suggestions.
 
 # Contacts
-- official e-mail [mikhailkuzmin420@gmail.com](mikhailkuzmin420@gmail.com)
+- [Mikhail Kuzmin](mailto:mikhailkuzmin420@gmail.com?subject=[GitHub] Source Han Sans)
 
 # P.S.
 This repository doesn't contain any code, so if you've got the plugin, please, contact and ask me for source code grant if needed.
