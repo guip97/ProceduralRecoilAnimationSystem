@@ -14,8 +14,15 @@ Here are the benefits you can get from using this asset:
 - Frame rate independence
 - Everything is done in the engine, no need to use third party 3D software
 
+# Just got the plugin?
+Here are 3 steps you need to do, once you've got the asset:
+1. Contact me via official support e-mail in the Contacts section
+2. Send your Order ID (just a formality)
+3. Get access to the official Discord server and YouTube video tutorials!
+
 # Have an issue?
-The system isn't perfect yet, so there can be some bugs and issues. Whenever you face one, please, let me know on the official Discord server.
+The system isn't perfect yet, so there can be some bugs and issues. If you found a bug, "Issues" section is exactly what you need.
+
 Before creating a new "Issue", try to follow theses rules:
 - Ask your question on the official discord server
 - Make sure you've read [Wikis](https://github.com/guip97/ProceduralRecoilAnimationSystem/wiki) carefully
