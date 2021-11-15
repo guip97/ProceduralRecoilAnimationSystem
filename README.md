@@ -12,7 +12,7 @@ Here are the benefits you can get from using this asset:
 - Frame rate independence
 - Everything is done in the engine, no need to use third party 3D software
 
-# 🐛 Have an issue?
+# Have an issue?
 The system isn't perfect yet, so there can be some bugs and issues. Whenever you face one, please, let me know on the official Discord server.
 Before creating a new "Issue", try to follow theses rules:
 - Ask your question on the official discord server
@@ -23,7 +23,7 @@ Before creating a new "Issue", try to follow theses rules:
   - Error messages
   - Engine version
 
-# ✨Have a suggestion?
+# Have a suggestion?
 Use "Issues" section for feature suggestions
 
 # P.S.
