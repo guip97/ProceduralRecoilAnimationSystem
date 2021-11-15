@@ -24,7 +24,7 @@ Before creating a new "Issue", try to follow theses rules:
   - Engine version
 
 # Have a suggestion?
-Use "Issues" section for feature suggestions.
+Use ["Issues"](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section for feature suggestions.
 
 # P.S.
 This repository doesn't contain any code, so if you've got the plugin, please, contact and ask me for source code grant if needed.
