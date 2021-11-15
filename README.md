@@ -3,8 +3,8 @@
 # Documentation
 Documentation can be available on the official [Wiki](https://github.com/guip97/ProceduralRecoilAnimationSystem/wiki) page.
 
-# Distrubution
-Unreal Engine Marketplace - is the only possible and allowed form of plugin's distrubution.
+# Official Unreal Engine Marketplace page
+Please note, that Unreal Engine Marketplace - is the only possible and allowed form of plugin's distrubution.
 
 # What can this asset be used for?
 
