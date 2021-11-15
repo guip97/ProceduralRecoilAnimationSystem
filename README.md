@@ -10,9 +10,14 @@ Please note, that Unreal Engine Marketplace - is the only possible and allowed f
 
 # What can this asset be used for?
 
-Whenever user presses the first button in a shooter game, a certain reaction from the weapon must be seen on the screen, this is called visual recoil or recoil animation.
+Whenever user presses the fire button in a shooter game, a certain reaction from the weapon can be seen on the screen, this is called recoil in video games. Recoil consists of 3 main parts:
+- Controller recoil (this makes player's camera go to the skies)
+- Camera shake
+- Weapon animation
 
-With this plugin, you can create high-quality lightweight recoil animations for firearms.
+The last part, sometimes referred as visual recoil or recoil animation, fakes the firearms' physics when firing.
+
+With this plugin you can create and modify weapon animations on the fly.
 
 # What does this asset offer?
 Here are the benefits you can get from using this asset:
