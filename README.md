@@ -1,2 +1,30 @@
-# Welcome to the official GitHub page for Procedural Recoil Animation Plugin for UE!
-This repository doesn't contain any code, so if you've bought the plugin, please, contact and ask me for source code grand if needed
+**Welcome to the official GitHub page for Procedural Recoil Animation Plugin for UE by *guip97*!**
+
+# What can this asset be used for?
+
+The main purpose of the plugin is to make creation of recoil animations for weapons much faster, easier and convenient.
+
+# What does this asset offer?
+Here are the benefits you can get from using this asset:
+- Convenient workflow for animation creation
+- Memory budget savings
+- Variety and randomness in animations
+- Frame rate independence
+- Everything is done in the engine, no need to use third party 3D software
+
+# 🐛 Have an issue?
+The system isn't perfect yet, so there can be some bugs and issues. Whenever you face one, please, let me know on the official Discord server.
+Before creating a new "Issue", try to follow theses rules:
+- Ask your question on the official discord server
+- Make sure you've read Wikis carefully
+- Make sure your case is unique
+- Provide essential info:
+  - Log files
+  - Error messages
+  - Engine version
+
+# ✨Have a suggestion?
+Use "Issues" section for feature suggestions
+
+# P.S.
+This repository doesn't contain any code, so if you've got the plugin, please, contact and ask me for source code grant if needed.
