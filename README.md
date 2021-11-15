@@ -29,7 +29,7 @@ Before creating a new "Issue", try to follow theses rules:
 Use ["Issues"](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section for feature suggestions.
 
 # Contacts
-- [mikhailkuzmin420@gmail.com](mailto:mikhailkuzmin420@gmail.com?subject=[GitHub]%20Procedural%20Recoil%20Animation)
+- official support e-mail [mikhailkuzmin420@gmail.com](mailto:mikhailkuzmin420@gmail.com?subject=[GitHub]%20Procedural%20Recoil%20Animation)
 
 # P.S.
 This repository doesn't contain any code, so if you've got the plugin, please, contact and ask me for source code grant if needed.
