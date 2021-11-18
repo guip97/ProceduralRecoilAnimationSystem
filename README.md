@@ -47,7 +47,7 @@ Before creating a new "Issue", try to follow theses rules:
   - Engine version
 
 # 💡 Have a suggestion?
-Use ["Issues"](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section for feature suggestions.
+Use [Issues](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section for feature suggestions.
 And don't forget to mark it with ⭐ feature label!
 
 # 🐱‍💻 Source code
