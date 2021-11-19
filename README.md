@@ -10,23 +10,19 @@ Please note, that Unreal Engine Marketplace - is the only possible and allowed f
 
 # ❔ What can this asset be used for?
 
-Whenever user presses the fire button in a shooter game, a certain reaction from the weapon can be seen on the screen, this is called recoil in video games. Recoil consists of 3 main parts:
-- Controller recoil (this makes player's camera go to the skies)
-- Camera shake
-- Weapon animation
+PRAS is a plugin, which makes firearms animation much faster and easier. With the help of curve based solver, it's possible to achieve high-quality results, without using third party software. Code-driven approach makes it possible to save memory budget, modify animation on the fly and make animations look unique each shot.
 
-The last part, sometimes referred as visual recoil or recoil animation, fakes the firearms' physics when firing.
-
-With this plugin you can create and modify weapon animations on the fly.
+Don't want to create a lot of animation sequences? Then, PRAS is the right choice for you.
 
 # ❔ What does this asset offer?
 Here are the benefits you can get from using this asset:
-- Convenient workflow for animation creation
-- Memory budget savings
-- Variety and randomness in animations
-- Smooth transition between different fire modes
-- Frame rate independence
-- No need to use third party 3D software, like Blender, 3dsmax or Maya
+ - Pure C++ for ultimate efficiency
+ - Procedural visual recoil
+ - Variety and smoothness in animations
+ - Animation customization using curves
+ - Smooth transitions between animations
+ - Frame rate independence
+ - Multiplayer support
 
 # 🔌 Just got the plugin?
 Here are 3 steps you need to do, once you've got the asset:
@@ -38,7 +34,7 @@ Here are 3 steps you need to do, once you've got the asset:
 The system isn't perfect yet, so there can be some bugs and issues. If you found a bug, [Issues](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section is exactly what you need.
 
 Before creating a new "Issue", try to follow theses rules:
-- Ask your question on the official discord server
+- Ask your question on the official Discord server
 - Make sure you've read [Wikis](https://github.com/guip97/ProceduralRecoilAnimationSystem/wiki) carefully
 - Make sure your case is unique
 - Provide essential info:
