@@ -1,4 +1,4 @@
-**Welcome to the official GitHub page for Procedural Recoil Animation Plugin for UE by *[guip97](https://github.com/guip97)*!**
+**Welcome to the official GitHub page for Procedural Recoil Animation System for UE by *[guip97](https://github.com/guip97)*!**
 
 # 📗 Documentation
 Documentation can be available on the official [Wiki](https://github.com/guip97/ProceduralRecoilAnimationSystem/wiki) page.
