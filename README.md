@@ -10,7 +10,7 @@ Please note, that Unreal Engine Marketplace - is the only possible and allowed f
 
 # ❔ What can this asset be used for?
 
-PRAS is a plugin, which makes firearms animation much faster and easier. With the help of curve based solver, it's possible to achieve high-quality results, without using third party software. Code-driven approach makes it possible to save memory budget, modify animation on the fly and make animations look unique each shot.
+PRAS is a plugin, which makes firearms animation much faster and easier. With the help of curve based solver, it's possible to achieve high-quality results, without using third party software. Code-driven approach makes it possible to save memory budget, modify animation on the fly and make animations look unique per each shot.
 
 Don't want to create a lot of animation sequences? Then, PRAS is the right choice for you.
 
@@ -31,10 +31,10 @@ Here are 3 steps you need to do, once you've got the asset:
 3. Get access to the official Discord server and YouTube video tutorials!
 
 # 🚩 Have an issue?
-The system isn't perfect yet, so there can be some bugs and issues. If you found a bug, [Issues](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section is exactly what you need.
+The system isn't perfect yet, so bugs are can may be expected. If you found a bug, [Issues](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section is exactly what you need.
 
 Before creating a new "Issue", try to follow theses rules:
-- Ask your question on the official Discord server
+- Ask your question on the official [Discord](#-justgottheplugin?) server
 - Make sure you've read [Wikis](https://github.com/guip97/ProceduralRecoilAnimationSystem/wiki) carefully
 - Make sure your case is unique
 - Provide essential info:
