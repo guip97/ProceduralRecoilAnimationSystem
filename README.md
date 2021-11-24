@@ -34,7 +34,7 @@ Here are 3 steps you need to do, once you've got the asset:
 The system isn't perfect yet, so bugs are can may be expected. If you found a bug, [Issues](https://github.com/guip97/ProceduralRecoilAnimationSystem/issues) section is exactly what you need.
 
 Before creating a new "Issue", try to follow theses rules:
-- Ask your question on the official [Discord](#-justgottheplugin?) server
+- Ask your question on the official [Discord](#-just-got-the-plugin) server
 - Make sure you've read [Wikis](https://github.com/guip97/ProceduralRecoilAnimationSystem/wiki) carefully
 - Make sure your case is unique
 - Provide essential info:
