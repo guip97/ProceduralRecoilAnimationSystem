@@ -5,7 +5,7 @@ Documentation can be available on the official [Wiki](https://github.com/guip97/
 
 There's also a [public roadmap](https://github.com/guip97/ProceduralRecoilAnimationSystem/projects/1).
 
-# 🛒 Official Unreal Engine Marketplace page
+# 🛒 [Official Unreal Engine Marketplace page](https://www.unrealengine.com/marketplace/en-US/product/76194998d28247018bee7be203f6c948)
 Please note, that Unreal Engine Marketplace - is the only possible and allowed form of plugin's distrubution.
 
 # ❔ What can this asset be used for?
